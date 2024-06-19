@@ -1,0 +1,1 @@
+const OPENAI_KEY = "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";
